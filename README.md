@@ -19,6 +19,7 @@ To view the table online, github.io page is used to host the webpage.
 As a simple intro to using html and javascript, this repo only contains basic functionalities:
 * Pagination
 * Instant search
+* Bidirectional row arrangement
 
 For more advanced features refer to https://github.com/limgm/datatables_advance
 * Buttons (copy, csv, excel, pdf, print)
