@@ -2,7 +2,7 @@
 
 This repo provides a basic template to create an *interactive* table with the help of [DataTables](https://datatables.net/). 
 
-Click the link for online demo: https://limgm.github.io/databtables_basic/
+Click the link for online demo: https://limgm.github.io/datatables_basic/
 
 ## Advantages
 Main adv of creating an online *interactive* table:
