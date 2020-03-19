@@ -4,13 +4,25 @@ This repo provides a basic template to create an *interactive* table with the he
 
 Click the link for online demo: https://limgm.github.io/databtables_basic/
 
-
-Advantages of creating an online *interactive* table:
+## Advantages
+Main adv of creating an online *interactive* table:
 * Share info online
 * Enhance user experience
 * Version control by github
 
-
-To create the table, the only file needed is [index.html](https://limgm.github.io/databtables_basic/index.html), refer to the code for more details.
+## Usage
+To create the table, the only file needed is [index.html](https://github.com/limgm/datatables_basic/blob/master/index.html), refer to the code for more details.
 
 To view the table online, github.io page is used to host the webpage.
+
+## Advance
+As a simple intro to using html and javascript, this repo only contains basic functionalities:
+* Pagination
+* Instant search
+
+For more advanced features refer to https://github.com/limgm/datatables_advance
+* Buttons (copy, csv, excel, pdf, print)
+* Individual column search
+* Search panes
+* Column (reordering, visibility)
+
